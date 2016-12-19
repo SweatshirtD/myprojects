@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpaceInv:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpaceInv_jar</output-path>
+    <root id="archive" name="SpaceInv.jar">
+      <element id="module-output" name="SpaceInv" />
+    </root>
+  </artifact>
+</component>
